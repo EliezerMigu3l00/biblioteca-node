@@ -1,0 +1,24 @@
+{
+  "name": "biblioteca-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliezerMigu3l00/biblioteca-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliezerMigu3l00/biblioteca-node/issues"
+  },
+  "homepage": "https://github.com/EliezerMigu3l00/biblioteca-node#readme",
+  "dependencies": {
+    "ansi-styles": "^6.1.0",
+    "chalk": "^5.0.1"
+  }
+}
